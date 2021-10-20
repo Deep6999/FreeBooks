@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50959611163",
+    "project_id": "freebooks-getbooksforfree",
+    "storage_bucket": "freebooks-getbooksforfree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50959611163:android:a25196c0927db352d4cfbe",
+        "android_client_info": {
+          "package_name": "com.heloo.freebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50959611163-js2jfho95jj1e0h339468ts3pqkbcqfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heloo.freebooks",
+            "certificate_hash": "5d655ea809ca27a00e234cd97cfecf541f57499c"
+          }
+        },
+        {
+          "client_id": "50959611163-297v5hitbkp8etmrb9n3m2ggiil1j9r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9mnrajxRV-PV4BiR_wjS7yxnab2vBhgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50959611163-297v5hitbkp8etmrb9n3m2ggiil1j9r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
